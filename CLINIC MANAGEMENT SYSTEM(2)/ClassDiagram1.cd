@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.DL.DoctorsDL">
+    <Position X="9.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIBEIAAAAAAAAAFAIAAAAAAAAAAAgAAACAAAAA=</HashCode>
+      <FileName>DL\DoctorsDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.DL.ManagersDL">
+    <Position X="9.5" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAQBAAgAIAAAAABAIAAAABAQAAA=</HashCode>
+      <FileName>DL\ManagersDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.DL.MUsersDL">
+    <Position X="9.5" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACwCEAAAAACAAAAAABACQAAAAAAAAhAAAAAAAAAAA=</HashCode>
+      <FileName>DL\MUsersDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.DL.StaffDL">
+    <Position X="9.5" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAgCMAAAADIgABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DL\StaffDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.DL.WardsDL">
+    <Position X="9.5" Y="32" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIBAIAAAABBCAAAAACBACAAAAA=</HashCode>
+      <FileName>DL\WardsDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.BL.DoctorBL">
+    <Position X="3.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABACAAAAAgAAAAAABgAAQAQgAEAAAAAAAAAAQAAQA=</HashCode>
+      <FileName>BL\DoctorBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.BL.Managers">
+    <Position X="3.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAgAAAAAQAAAAUAAAAEAAACAAAAAgAAAAA=</HashCode>
+      <FileName>BL\Managers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.BL.MUserBL">
+    <Position X="3.5" Y="26.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEQAAABEAAAAAAAACAAAAAgAAAAA=</HashCode>
+      <FileName>BL\MUsers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.BL.Staff">
+    <Position X="3.5" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAgAAAAEAAAABQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Staff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.BL.WardBL">
+    <Position X="3.5" Y="32.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIBABQCAQAUAAAABQAAAAEAAAA=</HashCode>
+      <FileName>BL\WardBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.BL.NameBL">
+    <Position X="3.5" Y="37" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAAQAAAABAAAAAAA=</HashCode>
+      <FileName>BL\Name.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.AdminMenu">
+    <Position X="23.5" Y="26" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAIAACAMA4AAAAAHAMAAAAACA=</HashCode>
+      <FileName>AdminMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.AdminForms.AddDoctor">
+    <Position X="17" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAARAAAACAAABCIAAYAAAAEGCAAAAAACA=</HashCode>
+      <FileName>AdminForms\AddDoctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.AdminForms.AddPatient">
+    <Position X="17" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAACCAAABAAAACAAAACAAAYAAAAEEAAAAAAACA=</HashCode>
+      <FileName>AdminForms\AddPatient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.AdminForms.Doctors">
+    <Position X="17" Y="28.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAEAAACAEABAAAACBAAACAAk4AAEAAHAAAAAAACA=</HashCode>
+      <FileName>AdminForms\Doctors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.AdminForms.EditDoctor">
+    <Position X="17" Y="33.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAASAAABAAAACAAABCIAAYACAAEGAAAAAAACA=</HashCode>
+      <FileName>AdminForms\EditDoctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.AdminForms.EditPatient">
+    <Position X="17" Y="39.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAACAAACAAABAAAACgAAACAAAYAAAAEEAAAAAAACA=</HashCode>
+      <FileName>AdminForms\EditPatient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.AdminForms.Patients">
+    <Position X="29" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAACAAABAAAACAAAACAAk4AAACAHAAAAAAACA=</HashCode>
+      <FileName>AdminForms\Patients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.AdminForms.Staff">
+    <Position X="29" Y="23.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAACAQABAAAACABAACABk4AAAAAHAAAAAAACA=</HashCode>
+      <FileName>AdminForms\Staff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.AdminForms.StaffAdd">
+    <Position X="29" Y="29.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAARAAAACAAAACAAAYAAAAEGAAAQAAACI=</HashCode>
+      <FileName>AdminForms\StaffAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.AdminForms.WardAdd">
+    <Position X="29" Y="34.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAACAAABAAAACAAABCIAAYAAAAEGAAAAAAACA=</HashCode>
+      <FileName>AdminForms\WardAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.AdminForms.Wards">
+    <Position X="29" Y="39.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAQBAAAACAAAACAAk4AAAAAHAAAAAAACA=</HashCode>
+      <FileName>AdminForms\Wards.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.OwnerForms.AddManager">
+    <Position X="3.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAARAAAACAAABCIAAYAAAAEGAAAAAAACA=</HashCode>
+      <FileName>OwnerForms\AddManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.OwnerForms.CalculateProfit">
+    <Position X="6.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAABCIAQYAAAAEGAAAAAAACA=</HashCode>
+      <FileName>OwnerForms\CalculateProfit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.OwnerForms.ChangeID">
+    <Position X="9.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAECAAAACAAAYAAAAEGAAAAAAACA=</HashCode>
+      <FileName>OwnerForms\ChangeID.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.OwnerForms.NameChange">
+    <Position X="12" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACAAARAAAACAAAACAAAYAAAAEGAAAAAAACA=</HashCode>
+      <FileName>OwnerForms\NameChange.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.OwnerForms.ViewPatients">
+    <Position X="14.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgACAAABAAAACAAAACAAgIAAAAAEAAAAAAACA=</HashCode>
+      <FileName>OwnerForms\ViewPatients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.OwnerForms.ViewStaff">
+    <Position X="17.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAQARAAAACAAAACADk4AAgAAGABAAAAACA=</HashCode>
+      <FileName>OwnerForms\ViewStaff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.OwnerForms.ViewWards">
+    <Position X="19.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAACACAAgoAAAAAEAAAAAAACA=</HashCode>
+      <FileName>OwnerForms\ViewWards.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.OwnerMenu">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAARAAAECAAAACAMQ/gAsAgHAPAAAAACI=</HashCode>
+      <FileName>OwnerMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.PatientMenu">
+    <Position X="25.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAMAQAAAAACAMAAAAACA=</HashCode>
+      <FileName>PatientMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.PatientForms.ApplyForTreatment">
+    <Position X="30.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAADAAABAAAACAAAACAAgwAAAAACAAAQAAACA=</HashCode>
+      <FileName>PatientForms\ApplyForTreatment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLINIC_MANAGEMENT_SYSTEM_2_.PatientForms.TakeAppointment">
+    <Position X="30.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAABAAAAKAAAACAAgwAAAAACAAAAAAACA=</HashCode>
+      <FileName>PatientForms\TakeAppointment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
